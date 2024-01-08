@@ -14,4 +14,4 @@ For this training, the website used to practice is https://alta-shop.vercel.app/
 2. This Documentation video manual testing creating functional test cases Login to the website https://demo.opensourcepos.org/ using the test management tool https://qase.io/ 
 [Video Link](https://drive.google.com/file/d/1KMFOS997vCPjohlNPaJDQTjkMlkC3X61/view)
 3. This Documentation video testing record using the JMeter tool from functional test cases Login on the website https://alta-shop.vercel.app 
-Video Link](https://drive.google.com/file/d/1ARPN9DNnjh43uGjyhZmCtERxJssxjmdE/view)
+[Video Link](https://drive.google.com/file/d/1ARPN9DNnjh43uGjyhZmCtERxJssxjmdE/view)
