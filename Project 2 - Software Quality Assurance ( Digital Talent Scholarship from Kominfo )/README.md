@@ -11,6 +11,7 @@ This training was held by Digital Talent Scholarship from Kominfo in collaborati
     - Get to know the relationship between QA work patterns in a development team
     - Know what SDLC is
     - Understand the role of QA in the SDLC process & know QA's duties and responsibilities in each SDLC stage
+      
     The following is a link to the results of the assignments from this section [Doc](https://drive.google.com/file/d/1c-ZTGiowaRcIV6GwxE-Jgcjb6cEHsFIY/view?usp=drive_link)
 
 2. Understand Testing Principles
@@ -23,6 +24,7 @@ This training was held by Digital Talent Scholarship from Kominfo in collaborati
     - Defining BDD
     - Identifying the Differences between TTD and BDD
     - Associating BDD Concepts
+      
     The following is a link to the results of the assignments from this section [Doc](https://drive.google.com/file/d/1d6kjnmTMm_vIu3XiB6Gk746Pv3tWJrX6/view?usp=drive_link)
 
 3. Compiling Bug Reports
@@ -32,6 +34,7 @@ This training was held by Digital Talent Scholarship from Kominfo in collaborati
     - Understand the types & differences of various follow-up bugs
     - Able to make bug reporting
     - Understand the implementation of bugs reporting using Scrum Board
+      
     The following is a link to the results of the assignments from this section [Doc](https://docs.google.com/spreadsheets/d/1SJRaNSLKRCVzq4XW0icRp_1x1w5IxRJw/edit?usp=drive_link&ouid=100319800495904952729&rtpof=true&sd=true)
 
 4. Implement Testing Process
@@ -41,6 +44,7 @@ This training was held by Digital Talent Scholarship from Kominfo in collaborati
     - Able to create test scenarios & test cases and know the differences
     - Able to implement several types of testing
     - Able to identify users who have fallen for phishing attacks and analyze security awareness that needs to be improved
+      
     The following is a link to the results of the assignments from this section [Doc](https://docs.google.com/spreadsheets/d/1iWeAzEQdTG8-5Utx2J_KG1_q954V-Pyp/edit?usp=drive_link&ouid=100319800495904952729&rtpof=true&sd=true)
 
 5. Perform API Testing
@@ -52,6 +56,7 @@ This training was held by Digital Talent Scholarship from Kominfo in collaborati
     - Able to use Postman to test Endpoint API
     - Able to Validate Schema (Broad Schema Support, Edit and Version Schema, Maintain a Single Source of Truth)
     - Able to write Test Suites (Create Test Suites, Parameterize Request, Run the Test and Debug)
+      
     The following is a link to the results of the assignments from this section [Doc](https://drive.google.com/file/d/12ypBw7ixR2FOYR__6XZJLQQzJ4nlzLqN/view?usp=drive_link)
 
 6. Understand Automation Testing
@@ -65,4 +70,5 @@ This training was held by Digital Talent Scholarship from Kominfo in collaborati
     - Able to create new projects in selenium
     - Able to create test cases and test scenarios
     - Able to create default Selenium/Appium reports
+      
     The following is a link to the results of the assignments from this section [Doc](https://drive.google.com/file/d/1JTKbXaja4fRSMyRB0sIsoqF7N5hyv3q5/view?usp=drive_link)
